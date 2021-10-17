@@ -35,7 +35,8 @@ body {
 
 .slide_item img {
   width: 100%;
-  height: 95%;
+  height: 70%;
+  object-fit: cover;
 }
 
 .slide_item p {
@@ -56,7 +57,7 @@ body {
 	cursor: pointer;
 	position: relative;
   left: 22.5%;
-  bottom: -805px;
+  bottom: -605px;
   z-index: 1000;
 	padding-left: 15px;
   padding-top: 4px;
